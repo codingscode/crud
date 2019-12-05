@@ -1,0 +1,11 @@
+{
+   "usuarios": [{
+      "id": "1",
+      "nome": "Samuel Silva",
+      "email": "samuel123@aol.com"
+   }, {
+    "id": "2",
+    "nome": "Larissa Lemes",
+    "email": "lala123@aol.com"
+    }]
+}
