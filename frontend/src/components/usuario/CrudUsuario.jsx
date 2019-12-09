@@ -10,9 +10,11 @@ const headerProps = {
 
 export default class CrudUsuario extends Component {
    render() {
+     return (
      <Principal {...headerProps}>
         Cadastro de Usuário
      </Principal>
+     )
    }
    
 }
