@@ -8,7 +8,7 @@ import CrudUsuario from '../components/usuario/CrudUsuario'
 export default props =>
   <Switch>
     <Route exact path='/' component={Home}/>
-    <Route path='/users' component={CrudUsuario}/>
+    <Route path='/usuarios' component={CrudUsuario}/>
     <Redirect from='*' to='/'/>
   </Switch>
 
